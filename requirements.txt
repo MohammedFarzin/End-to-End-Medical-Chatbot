@@ -4,3 +4,5 @@ langchain==0.1.13
 langchain-community==0.0.29
 pinecone-client==3.2.0
 sentence-transformers==2.6.0
+PyPDF
+python-dotenv
